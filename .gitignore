@@ -1,9 +1,1 @@
-*.csv
-
-.ipynb_checkpoints*
-*
-.bak
-
-~*
-
-experiments*
+*.cvs
