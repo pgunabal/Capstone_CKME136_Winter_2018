@@ -1,1 +1,5 @@
-*.cvs
+*.data
+*.model
+*.csv
+.ipynb_checkpoints
+plots
