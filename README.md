@@ -7,3 +7,9 @@ CKME136_2018_Remove_All_Missing_Values.ipynb
     NCDB_FULL_Removed_All_Missing_Values.csv
 
 
+CKME136X10_2018_Initial_Data_Cleaning.ipynb
+    In this notebook we read the intial dataset and eliminate any varaibles that do not contribute value to the dataset.
+    Set the correct data type for the variables, remove any missing values.  The results are stored in a csv file named
+    CKME136X10_2018_Initial_Data_Cleaning.csv
+    
+ 
