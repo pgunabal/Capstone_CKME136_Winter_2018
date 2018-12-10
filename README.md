@@ -26,3 +26,7 @@ Order of execution
 8. CKME136X10_2018_Build_Model_Kfold
 9. CKME136_2018_build_ensemble_model
  
+ 
+ geometric mean example
+ 
+ https://imbalanced-learn.org/en/stable/generated/imblearn.metrics.geometric_mean_score.html
